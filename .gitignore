@@ -1,5 +1,5 @@
 .idea/*
-/targer
+target/
 backed.iml
 gq_backed.iml
 
